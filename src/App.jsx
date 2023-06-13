@@ -14,7 +14,7 @@ function App() {
   return (
     <Fragment>
       <div className="container">
-        <h1 className="text-center">Vite + React | Google Map Markers</h1>
+        <h1 className="text-center"> Google Map Checkpoint</h1>
         <div style={{ height: "90vh", width: "100%" }}>
           {isLoaded ? (
             <GoogleMap
